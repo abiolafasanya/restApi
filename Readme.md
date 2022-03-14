@@ -14,9 +14,16 @@
 
 ### code can be found in the modules
 
-- modules
-    - user
-        -handler
-        -model
-        -route
--app.js
+<ul>
+    <li>
+        Modules
+        <ul>
+            <li>handler.js</li>
+            <li>models.js</li>
+            <li>route.js</li>
+        </ul>
+    </li>
+    <li>app.js</li>
+    <li>package.json</li>
+    <li>.gitignore</li>
+</ul>
