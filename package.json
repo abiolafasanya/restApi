@@ -1,0 +1,20 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "API should have name(string), age(integer), message(string) and createDate(Date)",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app",
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abiola fasanya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.5",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
